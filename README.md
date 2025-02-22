@@ -1,5 +1,3 @@
----
-
 # Mimetypes Extension 🗃️🔎
 
 [![PyPI](https://img.shields.io/pypi/v/mimetypes-extension)](https://pypi.org/project/mimetypes-extension/)
