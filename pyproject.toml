@@ -13,7 +13,6 @@ license = { file = "LICENSE" }
 readme = "README.md"
 requires-python = ">=3.7"
 keywords = ["mime", "content-type", "mapping", "file extensions"]
-homepage = "https://github.com/prono69/mimetypes-extension"
 
 # Add any dependencies here
 dependencies = []
