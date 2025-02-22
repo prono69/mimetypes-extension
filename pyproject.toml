@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mimetypes-extension"
+version = "0.1.0"
+description = "A Python package to get file extensions from MIME types, with support for additional formats."
+authors = [
+{ name = "Will Update Later", email = "mail@alam.eu.org" }
+]
+license = { file = "LICENSE" }
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+"Programming Language :: Python :: 3",
+"License :: OSI Approved :: MIT License",
+"Operating System :: OS Independent",
+]
+dependencies = [] # Add any dependencies here
+
+[project.urls]
+Homepage = "https://github.com/prono69/mimetypes-extension"
