@@ -7,17 +7,24 @@ name = "mimetypes-extension"
 version = "0.1.0"
 description = "A Python package to get file extensions from MIME types, with support for additional formats."
 authors = [
-{ name = "Will Update Later", email = "mail@alam.eu.org" }
+    { name = "Sahil Alam", email = "mail@alam.eu.org" }
 ]
 license = { file = "LICENSE" }
 readme = "README.md"
 requires-python = ">=3.7"
+keywords = ["mime", "content-type", "mapping", "file extensions"]
+homepage = "https://github.com/prono69/mimetypes-extension"
+
+# Add any dependencies here
+dependencies = []
+
 classifiers = [
-"Programming Language :: Python :: 3",
-"License :: OSI Approved :: MIT License",
-"Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
 ]
-dependencies = [] # Add any dependencies here
 
 [project.urls]
-Homepage = "https://github.com/prono69/mimetypes-extension"
+"Homepage" = "https://github.com/prono69/mimetypes-extension"
+"Bug Reports" = "https://github.com/prono69/mimetypes-extension/issues"
+"Source" = "https://github.com/prono69/mimetypes-extension"
