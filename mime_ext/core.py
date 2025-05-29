@@ -76,7 +76,7 @@ EXTENSION_TO_CONTENT_TYPE: Dict[str, str] = {
     'qt': 'video/quicktime',
     'movie': 'video/x-sgi-movie',
     'ts': 'video/mp2t',
-    'mkv': 'video/x-matroska'
+    'mkv': 'video/x-matroska',
     '3gp': 'video/3gpp',
     '3gpp': 'audio/3gpp',
     '3g2': 'audio/3gpp2',
