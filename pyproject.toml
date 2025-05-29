@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "mimetypes-extension"
-version = "0.1.0"
+version = "0.1.2"
 description = "A Python package to get file extensions from MIME types, with support for additional formats."
 authors = [
     { name = "Sahil Alam", email = "mail@alam.eu.org" }
